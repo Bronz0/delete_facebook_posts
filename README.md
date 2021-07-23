@@ -11,3 +11,10 @@
     - chromedriver bin path
     - your Facebook credentials (username and password).
 - Run the notebook and watch the magic.
+
+
+## Note!
+
+In order to make the script work properly, you should
+- Set Facebook language preferences to English.
+- Desable two factor authentication.
